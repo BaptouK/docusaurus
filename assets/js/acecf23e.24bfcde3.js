@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcours_git=self.webpackChunkcours_git||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
